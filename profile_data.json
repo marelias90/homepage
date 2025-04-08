@@ -1,0 +1,353 @@
+{
+  "id": 305589402,
+  "urn": "ACoAABI27JoBXfU-ZnEmVAgZ9EZeBgvZNNRYrSA",
+  "username": "martineliason",
+  "firstName": "Martin",
+  "lastName": "Eliason",
+  "isPremium": true,
+  "profilePicture": "https://media.licdn.com/dms/image/v2/D4E03AQGuVsCBtGFFKg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1698080670487?e=1749081600&v=beta&t=F17Q2bqarFRmQ2L6x30H4oJVpfZJOXmKIjupXVSVpuo",
+  "profilePictures": [
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4E03AQGuVsCBtGFFKg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1698080670487?e=1749081600&v=beta&t=TbpPoEZBqqOQnchAIUzntbxvMcpoCNwcfKoBMI_24Sk",
+      "width": 100,
+      "height": 100
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4E03AQGuVsCBtGFFKg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1698080670487?e=1749081600&v=beta&t=T7gkVPv1GuXeGirA4-M2rYhtb2RZiwZKse7N5cUxBuI",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4E03AQGuVsCBtGFFKg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1698080670487?e=1749081600&v=beta&t=XsysM3REX_Mo7i_tdu-H_PSVCqmCdk6syUvM0pg-s7c",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4E03AQGuVsCBtGFFKg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1698080670487?e=1749081600&v=beta&t=F17Q2bqarFRmQ2L6x30H4oJVpfZJOXmKIjupXVSVpuo",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "backgroundImage": [
+    {
+      "width": 799,
+      "height": 200,
+      "url": "https://media.licdn.com/dms/image/v2/D4E16AQFHGCu3teK6bA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1681752347825?e=1749081600&v=beta&t=UmZYMfM-bv2EWJeLx4ShmcyaV7G756lC-jGATHMNmd8"
+    },
+    {
+      "width": 1179,
+      "height": 295,
+      "url": "https://media.licdn.com/dms/image/v2/D4E16AQFHGCu3teK6bA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1681752347825?e=1749081600&v=beta&t=we48QVMZDaqmcyzLk9ZRebzSoRo9Oi29_ULncbXDeC8"
+    }
+  ],
+  "summary": "I help companies navigate existential chapters in their growth journey.\n\nExecutive with over a decade of experience building, launching, and scaling disruptive and impactful products and teams in B2B and B2B2C. I have helped build some of the fastest growing companies in Europe to unicorn evaluations and private market exits.\n\nI love what I do - building and empowering diverse teams of ambitious product people to build incredible products and experiences for millions of people.",
+  "headline": "Chief Product Officer | Scale up executive & advisor | Ex Chef",
+  "geo": {
+    "country": "Germany",
+    "city": "Berlin Metropolitan Area",
+    "full": "Berlin Metropolitan Area",
+    "countryCode": "de"
+  },
+  "languages": [
+    {
+      "name": "Deutsch",
+      "proficiency": "FULL_PROFESSIONAL"
+    },
+    {
+      "name": "Englisch",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "position": [
+    {
+      "companyId": 25071758,
+      "companyName": "PVcase",
+      "companyUsername": "pvcase",
+      "companyURL": "https://www.linkedin.com/company/pvcase/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQHZy_bpfCpaDg/company-logo_400_400/company-logo_400_400/0/1645789631945/pvcase_logo?e=1749081600&v=beta&t=bgBMHa7yiBOYIfXUDlBAJStuyBb9iBy4Hct_k2K3yQA",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "201 - 500",
+      "title": "Chief Product Officer",
+      "multiLocaleTitle": {
+        "de_DE": "Chief Product Officer"
+      },
+      "multiLocaleCompanyName": {
+        "de_DE": "PVcase"
+      },
+      "location": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2024,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 25071758,
+      "companyName": "PVcase",
+      "companyUsername": "pvcase",
+      "companyURL": "https://www.linkedin.com/company/pvcase/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQHZy_bpfCpaDg/company-logo_400_400/company-logo_400_400/0/1645789631945/pvcase_logo?e=1749081600&v=beta&t=bgBMHa7yiBOYIfXUDlBAJStuyBb9iBy4Hct_k2K3yQA",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "201 - 500",
+      "title": "Vice President, Product",
+      "multiLocaleTitle": {
+        "de_DE": "Vice President, Product"
+      },
+      "multiLocaleCompanyName": {
+        "de_DE": "PVcase"
+      },
+      "location": "",
+      "description": "PVcase is a next-generation PV software-as-a-service company with 123m$ raised and 250+ employees globally. We are helping revolutionize the energy transition by making solar project design faster, more efficient and more precise",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2024,
+        "month": 2,
+        "day": 0
+      },
+      "end": {
+        "year": 2024,
+        "month": 7,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 9223407,
+      "companyName": "Staffbase",
+      "companyUsername": "staffbase",
+      "companyURL": "https://www.linkedin.com/company/staffbase/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQHUdqpdMeGNbw/company-logo_400_400/company-logo_400_400/0/1707122409829/staffbase_logo?e=1749081600&v=beta&t=WNHTV0IlPtSlmYw4eq7OO6XT82YYlQnSlwsGV8jCDek",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "501 - 1000",
+      "title": "Vice President, Product",
+      "multiLocaleTitle": {
+        "de_DE": "Vice President, Product"
+      },
+      "multiLocaleCompanyName": {
+        "de_DE": "Staffbase"
+      },
+      "location": "Berlin, Deutschland",
+      "description": "With a total of $300M+ raised, Staffbase is one of the worlds fastest growing enterprise SaaS companies - establishing an entirely new segment in employee- communication & experience management. We serve thousands of companies with millions of employees throughout the world.\n\n- Grew and led the product organization to 32+ high-performing teams with 5 distinct business units and 2500+ customers\n- Built and was responsible for a world-class product management, product design, data, and product operations team growing from 30 to >85 FTE \n- Became the 1# leading solution in our domain, acknowledged by Gartner, ClearBox, and G2. Achieved an industry-leading customer NPS of 70+ with over 14M users\n- Grew from 35m ARR to >100m ARR",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2021,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 9,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 5350209,
+      "companyName": "scoutbee",
+      "companyUsername": "scoutbee",
+      "companyURL": "https://www.linkedin.com/company/scoutbee/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGOyVqhPpB52g/company-logo_400_400/company-logo_400_400/0/1664528182659/scoutbee_logo?e=1749081600&v=beta&t=tJb2tWHRwI0mrPA57ktP0NxH9nBl2OCLdf3z3i7-1jE",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Head of Product",
+      "multiLocaleTitle": {
+        "de_DE": "Head of Product"
+      },
+      "multiLocaleCompanyName": {
+        "de_DE": "scoutbee"
+      },
+      "location": "Berlin, Berlin, Deutschland",
+      "description": "scoutbee is a world-leading supplier discovery platform and the fastest-growing global SaaS procurement platform with a total investment of $76 million (Series B) from investors like, Atomico, Lakestar, Next47, HV Capital, 42CAP, and Toba Capital.\n\nJoined as the first executive product hire to build an industry-disrupting product, product management & product design team. Sustainably grew the team from 5 FTE to 17 FTE, to acquire significant customers and partners like Unilever, Audi, and SAP. Transformed to a SaaS business with 2 key product lines",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2019,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2021,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 18698136,
+      "companyName": "Various Companies",
+      "companyUsername": "various-boards",
+      "companyURL": "https://www.linkedin.com/company/various-boards/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQFEU28_d7gc6w/company-logo_400_400/company-logo_400_400/0/1631357179020/various_boards_logo?e=1749081600&v=beta&t=6K6Pd3RWoF5_G7sqiw_FTM7MXhJvsTpymmyWM7tNRmU",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": " Operations and Product Advisor",
+      "multiLocaleTitle": {
+        "de_DE": " Operations and Product Advisor"
+      },
+      "multiLocaleCompanyName": {
+        "de_DE": "Various Companies"
+      },
+      "location": "",
+      "description": "- Worked with the executive team to launch a double-digit million-funded health company VAHA as Interim COO. Acquired by bioniq in 2022\n- Worked with the executive team of Finreach (a Finleap portfolio company) during the acquisition and post- merger integration of a large competitor (Figo) to support core business growth. Merged with figo and infinitec to form Finleap Connect.\n- I love food, cooking, and physically appealing haptic products. Launched a superfoods business with 2 founders (VP Engineering @ Fyber and an SMB CEO in Spain). I had a lot of fun and learned about the challenges in supply chain and retail marketing\n- Occasional product advisor",
+      "employmentType": "",
+      "start": {
+        "year": 2016,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2019,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 3130737,
+      "companyName": "Bonial Germany ",
+      "companyUsername": "bonial-international",
+      "companyURL": "https://www.linkedin.com/company/bonial-international/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQFxen3nSw1oAQ/company-logo_100_100/B4EZUDg4iNHMAQ-/0/1739520707095/bonial_international_logo?e=1749081600&v=beta&t=6MbsEMrM9R4aSeJ2div342WzTFA1nRucKfkIBfD9gao",
+      "companyIndustry": "Information Technology & Services",
+      "companyStaffCountRange": "201 - 500",
+      "title": "Head of Product",
+      "multiLocaleTitle": {
+        "de_DE": "Head of Product"
+      },
+      "multiLocaleCompanyName": {
+        "de_DE": "Bonial Germany "
+      },
+      "location": "Berlin und Umgebung, Deutschland",
+      "description": "Bonial is a 90m EUR funded d2s marketing platform. I led the API business (SPM) and successively new product development (DE, FR, US). Founded and led the fastest-growing new product segments and product teams in a previous single product offering company. Achieved a 6-digit revenue run-rate in 3 months",
+      "employmentType": "",
+      "start": {
+        "year": 2016,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 3847556,
+      "companyName": "micropayment GmbH",
+      "companyUsername": "micropayment-gmbh",
+      "companyURL": "https://www.linkedin.com/company/micropayment-gmbh/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C510BAQHV72ASW7mUgA/company-logo_400_400/company-logo_400_400/0/1631325158480?e=1749081600&v=beta&t=tLCitMMXrOgF-T69OrRussfjDYM7hPNqbUfRQkVpdao",
+      "companyIndustry": "Financial Services",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Product",
+      "multiLocaleTitle": {
+        "de_DE": "Product"
+      },
+      "multiLocaleCompanyName": {
+        "de_DE": "micropayment GmbH"
+      },
+      "location": "Berlin und Umgebung, Deutschland",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2012,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2016,
+        "month": 0,
+        "day": 0
+      }
+    }
+  ],
+  "fullPositions": [
+    {
+      "companyId": 25071758,
+      "companyName": "PVcase",
+      "companyUsername": "pvcase",
+      "companyURL": "https://www.linkedin.com/company/pvcase/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQHZy_bpfCpaDg/company-logo_400_400/company-logo_400_400/0/1645789631945/pvcase_logo?e=1749081600&v=beta&t=bgBMHa7yiBOYIfXUDlBAJStuyBb9iBy4Hct_k2K3yQA",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "201 - 500",
+      "title": "Chief Product Officer",
+      "multiLocaleTitle": {
+        "de_DE": "Chief Product Officer"
+      },
+      "multiLocaleCompanyName": {
+        "de_DE": "PVcase"
+      },
+      "location": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2024,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 25071758,
+      "companyName": "PVcase",
+      "companyUsername": "pvcase",
+      "companyURL": "https://www.linkedin.com/company/pvcase/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQHZy_bpfCpaDg/company-logo_400_400/company-logo_400_400/0/1645789631945/pvcase_logo?e=1749081600&v=beta&t=bgBMHa7yiBOYIfXUDlBAJStuyBb9iBy4Hct_k2K3yQA",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "201 - 500",
+      "title": "Vice President, Product",
+      "multiLocaleTitle": {
+        "de_DE": "Vice President, Product"
+      },
+      "multiLocaleCompanyName": {
+        "de_DE": "PVcase"
+      },
+      "location": "",
+      "description": "PVcase is a next-generation PV software-as-a-service company with 123m$ raised and 250+ employees globally. We are helping revolutionize the energy transition by making solar project design faster, more efficient and more precise",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2024,
+        "month": 2,
+        "day": 0
+      },
+      "end": {
+        "year": 2024,
+        "month": 7,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 9223407,
+      "companyName": "Staffbase",
+      "companyUsername": "staffbase",
+      "companyURL": "https://www.linkedin.com/company/staffbase/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQHUdqpdMeGNbw/company-logo_400_400/company-logo_400_400/0/1707122409829/staffbase_logo?e=1749081600&v=beta&t=WNHTV0IlPtSlmYw4eq7OO6XT82YYlQnSlwsGV8jCDek",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "501 - 1000",
+      "title": "Vice President, Product",
+      "multiLocaleTitle": {
+        "de_DE": "Vice President, Product"
+      },
+      "multiLocaleCompanyName": {
+        "de_DE": "Staffbase"
+      },
+      "location": "Berlin, Deutschland",
+      "description": "With a total of $300M+ raised, Staffbase is one of the worlds fastest growing enterprise SaaS companies - establishing an entirely new segment in employee- communication & experience management. We serve thousands of companies with millions of employees throughout the world.\n\n- Grew and led the product organization to 32+ high-performing teams with 5 distinct business units and 2500+ customers\n- Built and was responsible for a world-class product management, product design, data, and product operations team growing from 30 to >85 FTE \n- Became the 1# leading solution in our domain, acknowledged by Gartner, ClearBox, and G2. Achieved an industry-leading customer NPS of 70+ with over 14M users\n- Grew from 35m ARR to >100m ARR",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2021,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 9,
+        "day": 0
+  
+(Content truncated due to size limit. Use line ranges to read in chunks)
