@@ -1,79 +1,99 @@
-# Website Design Mockup for Martin Eliason Executive Coaching
+# Design Mockup for Martin Eliason's Website Redesign
 
-## Color Scheme
-- Primary: Black (#000000)
-- Secondary: White (#FFFFFF)
-- Accent: Light Grey (#E0E0E0)
-- Text Grey: Dark Grey (#333333)
+Based on the minimalist style of eggert.xyz, this mockup outlines a clean, typography-focused redesign for Martin Eliason's executive coaching website.
 
-## Typography
-- Headings: Montserrat (Sans-serif)
-- Body: Open Sans (Sans-serif)
-- Font sizes: 
-  - H1: 48px
-  - H2: 36px
-  - H3: 24px
-  - Body: 16px
-  - Small text: 14px
-
-## Layout Structure
-
-### Header
-- Minimalist navigation bar with logo on left, menu items on right
-- Menu items: Home, About, Services, Experience, Contact
-- Clean white background with black text
-- Subtle grey separator line below header
-
-### Hero Section
-- Full-width section with Martin's professional headshot on right side
-- Left side: Bold headline "Executive Coaching for Transformative Leadership"
-- Subheading: "Navigate growth challenges with a seasoned executive advisor"
-- Call-to-action button: "Schedule a Consultation"
+## Overall Layout
 - White background with black text
+- Monospace font throughout (e.g., "Courier New", monospace)
+- Generous padding (padding: 2rem on mobile, 4rem on desktop)
+- Content constrained to maximum width (max-width: 42rem)
+- Minimal use of visual elements
+- Focus on typography and whitespace
 
-### About Section
-- Two-column layout
-- Left: Professional photo of Martin
-- Right: Brief professional summary highlighting executive coaching expertise
-- Grey background with black text
+## Header
+- Simple horizontal layout
+- Name "Martin Eliason" on left (bold/black weight)
+- Minimal navigation on right with text links:
+  - "Coaching"
+  - "Experience"
+  - "Writing"
+  - "Contact"
+- Large bottom margin to separate from content (margin-bottom: 6rem)
+- Optional subtle animation on name text
 
-### Services Section
-- Three-card layout showcasing key coaching services
-- Each card with icon, title, and brief description
-- White background with black text and grey accents
+## Hero Section
+- Simple, text-only introduction
+- Larger heading: "hi"
+- Brief paragraph about executive coaching focus
+- No images or decorative elements
+- Generous bottom margin (margin-bottom: 3rem)
 
-### Experience Section
-- Timeline-style layout showing relevant executive experience
-- Focus on leadership roles and coaching expertise
-- Alternating white and light grey backgrounds
+## Services Section
+- Simple heading: "coaching"
+- List of services with:
+  - Clean titles (medium size)
+  - Brief descriptions (regular size)
+  - No icons or visual elements
+- Each service separated by adequate whitespace
+- Text-only presentation
 
-### Testimonials Section
-- Simple, elegant testimonial slider
-- Black text on white background with grey quotation marks
+## Experience Section
+- Simple heading: "experience"
+- Timeline-style list of positions:
+  - Company name and position title
+  - Years (in gray text)
+  - Brief description
+- No boxes, cards, or visual containers
+- Text-focused presentation with consistent spacing
 
-### Contact Section
-- Clean contact form with minimal fields
-- Contact information and social media links
-- Grey background with white form elements
+## Writing/Testimonials Section
+- Simple heading: "writing" or "thoughts"
+- List of articles/testimonials:
+  - Title with hover effect (gray on hover)
+  - Date in small gray text
+  - Optional category label
+- Simple text links to full content
+- "All posts" link at bottom with subtle arrow icon
 
-### Footer
-- Minimal footer with copyright information
-- Social media icons
-- Black background with white text
+## Contact Section
+- Simple heading: "find me online"
+- List of contact methods/social links:
+  - Each link prefixed with "—" dash
+  - Blue text for links
+  - Hover underline effect
+  - Simple vertical stack
+- No contact form (simplify to direct links)
 
-## Key Design Elements
-- Ample white space for clean, minimalist feel
-- Sharp contrast between black and white elements
-- Grey used sparingly as accent color
-- Professional, high-quality photography
-- Clean lines and geometric shapes
-- No decorative elements that don't serve a purpose
-- Mobile-responsive design
+## Footer
+- Minimal or no visible footer
+- Optional copyright text in small gray
 
-## User Experience Focus
-- Clear hierarchy of information
-- Intuitive navigation
-- Fast loading times
-- Emphasis on Martin's executive experience and coaching expertise
-- Professional yet approachable tone
-- Easy contact options
+## Typography Details
+- Headings: 1.5rem (24px)
+- Body text: 1rem (16px)
+- Secondary text: 0.875rem (14px)
+- Line height: 1.6 for good readability
+- Font weight: normal for most text, bold for headings
+
+## Color Palette
+- Background: #FFFFFF (white)
+- Primary text: #000000 (black)
+- Secondary text: #666666 (medium gray)
+- Metadata text: #999999 (light gray)
+- Links: #3B82F6 (blue)
+- No additional accent colors
+
+## Interactive Elements
+- Subtle hover effects:
+  - Links: underline or color change to gray
+  - Navigation: reduced opacity
+- No buttons with backgrounds
+- Text-only interactive elements
+- Minimal state changes
+
+## Responsive Considerations
+- Single-column layout on all devices
+- Adjusted padding on mobile (2rem vs 4rem)
+- Stacked header on mobile (logo above navigation)
+- Preserved typography hierarchy
+- Simplified navigation on smaller screens
