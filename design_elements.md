@@ -1,4 +1,4 @@
-# Key Design Elements from eggert.xyz
+# Key Design Elements
 
 ## Typography & Fonts
 - Monospace font family (`font-mono`) for the entire site

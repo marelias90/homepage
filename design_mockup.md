@@ -1,6 +1,6 @@
 # Design Mockup for Martin Eliason's Website Redesign
 
-Based on the minimalist style of eggert.xyz, this mockup outlines a clean, typography-focused redesign for Martin Eliason's executive coaching website.
+This mockup outlines a clean, typography-focused redesign for Martin Eliason's executive coaching website.
 
 ## Overall Layout
 - White background with black text
