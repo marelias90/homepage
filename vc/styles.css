@@ -1,0 +1,267 @@
+/* 
+   Martin Eliason PE & VC Landing Page
+   CSS Styling with Scroll Reveal Effects
+*/
+
+/* Base Styles & Variables */
+:root {
+    --color-dark: #0a0a1a;
+    --color-darker: #000000;
+    --color-light: #ffffff;
+    --color-accent-blue: #4dabf7;
+    --color-accent-gold: #ffc107;
+    --color-accent-purple: #9c27b0;
+    --color-gray: #888888;
+    --color-light-gray: #f5f5f5;
+    --font-heading: 'Montserrat', sans-serif;
+    --font-body: 'Open Sans', sans-serif;
+    --transition: all 0.3s ease;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    scroll-snap-type: y mandatory;
+}
+
+body {
+    font-family: var(--font-heading);
+    font-size: 16px;
+    line-height: 1.6;
+    color: var(--color-light);
+    background: linear-gradient(135deg, var(--color-dark), var(--color-darker));
+    overflow-x: hidden;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+a {
+    color: var(--color-light);
+    text-decoration: none;
+    transition: var(--transition);
+}
+
+a:hover {
+    color: var(--color-accent-blue);
+}
+
+/* Header Styling */
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10px);
+    padding: 15px 0;
+}
+
+.logo a {
+    font-family: var(--font-heading);
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--color-light);
+}
+
+/* Scroll Section Styling */
+.scroll-section {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    scroll-snap-align: start;
+    padding: 0 20px;
+}
+
+.text-container {
+    max-width: 1000px;
+    text-align: center;
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 1s ease, transform 1s ease;
+}
+
+.text-container.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Typography Styling */
+h1 {
+    font-size: 4rem;
+    font-weight: 800;
+    margin-bottom: 1rem;
+    line-height: 1.2;
+}
+
+h2 {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+    line-height: 1.3;
+}
+
+.subtitle {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    font-weight: 400;
+}
+
+.statement {
+    font-size: 3.5rem;
+    font-weight: 700;
+    line-height: 1.3;
+}
+
+.accent-gold {
+    color: var(--color-accent-gold);
+}
+
+.accent-blue {
+    color: var(--color-accent-blue);
+}
+
+/* Scroll Indicator Styling */
+.scroll-indicator {
+    position: absolute;
+    bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    animation: bounce 2s infinite;
+    opacity: 0.7;
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+.scroll-indicator i {
+    margin-top: 10px;
+    font-size: 1.2rem;
+}
+
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+    }
+    40% {
+        transform: translateY(-10px);
+    }
+    60% {
+        transform: translateY(-5px);
+    }
+}
+
+/* CTA Button Styling */
+.cta-button {
+    display: inline-block;
+    background: var(--color-accent-blue);
+    color: var(--color-light);
+    padding: 15px 30px;
+    border-radius: 50px;
+    font-family: var(--font-heading);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: var(--transition);
+    margin-bottom: 30px;
+    font-size: 1.2rem;
+}
+
+.cta-button:hover {
+    background: var(--color-accent-gold);
+    color: var(--color-darker);
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Contact Info Styling */
+.contact-info {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 20px;
+    font-family: var(--font-body);
+    font-size: 1rem;
+}
+
+.contact-info a {
+    transition: var(--transition);
+}
+
+.contact-info a:hover {
+    color: var(--color-accent-gold);
+}
+
+/* Background Gradient Animation */
+@keyframes gradientAnimation {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+body {
+    background-size: 200% 200%;
+    animation: gradientAnimation 15s ease infinite;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2.5rem;
+    }
+    
+    h2 {
+        font-size: 2rem;
+    }
+    
+    .statement {
+        font-size: 2rem;
+    }
+    
+    .subtitle {
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 2rem;
+    }
+    
+    h2 {
+        font-size: 1.8rem;
+    }
+    
+    .statement {
+        font-size: 1.5rem;
+    }
+    
+    .subtitle {
+        font-size: 1rem;
+    }
+    
+    .cta-button {
+        padding: 12px 25px;
+        font-size: 1rem;
+    }
+}
