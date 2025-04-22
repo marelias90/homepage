@@ -35,7 +35,10 @@ body {
     line-height: 1.6;
     color: var(--color-light);
     background: linear-gradient(135deg, var(--color-dark), var(--color-darker));
+    background-size: 200% 200%;
+    animation: gradientAnimation 15s ease infinite;
     overflow-x: hidden;
+    min-height: 100vh;
 }
 
 .container {
@@ -217,11 +220,6 @@ h2 {
     100% {
         background-position: 0% 50%;
     }
-}
-
-body {
-    background-size: 200% 200%;
-    animation: gradientAnimation 15s ease infinite;
 }
 
 /* Responsive Styles */
