@@ -843,7 +843,7 @@ footer {
 }
 
 .reading-time::before {
-    content: "⏱";
+    content: "â±";
     font-size: 1rem;
 }
 
