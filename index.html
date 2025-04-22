@@ -3,11 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Martin Eliason - Executive Coaching for Product Leaders and CEOs. Expert guidance for scaling companies and building high-performing teams.">
+    <meta name="keywords" content="executive coaching, product leadership, scaling companies, leadership development, innovation coaching">
+    <meta property="og:title" content="Martin Eliason | Executive Coaching">
+    <meta property="og:description" content="Expert executive coaching for product leaders and CEOs navigating critical growth phases.">
+    <meta property="og:image" content="images/profile-picture-new.jpg">
+    <meta property="og:url" content="https://martineliason.com">
+    <meta name="twitter:card" content="summary_large_image">
     <title>Martin Eliason | Executive Coaching</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&display=swap" rel="stylesheet">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Martin Eliason",
+        "jobTitle": "Executive Coach",
+        "description": "Executive coaching for product leaders and CEOs navigating critical growth phases.",
+        "url": "https://martineliason.com",
+        "sameAs": [
+            "https://www.linkedin.com/in/martineliason"
+        ],
+        "knowsAbout": [
+            "Executive Coaching",
+            "Product Leadership",
+            "Company Scaling",
+            "Leadership Development",
+            "Innovation Strategy"
+        ]
+    }
+    </script>
 </head>
 <body>
     <div class="reading-progress"></div>
@@ -25,7 +52,6 @@
             </div>
             <nav>
                 <a href="#how-i-help">How I Help</a>
-                <a href="#experience">Experience</a>
                 <a href="writing.html">Writing</a>
                 <a href="#contact">Contact</a>
             </nav>
@@ -54,7 +80,7 @@ My clients don't just solve today's scaling problems—they build organizational
                 <div class="services">
                     <article>
                         <h3>Executive Coaching and Advisory</h3>
-                        <p>Executive coaching for product leaders and their teams, focused on scaling effectively and building high-performing organizations. Helping you thrive.</p>
+                        <p>I provide direct, high-impact coaching for CEOs and product executives facing critical scaling challenges. As your dedicated sparring partner, I help you navigate complex decisions at the intersection of company vision and product execution. Our collaboration addresses both strategic business obstacles and the personal challenges that often accompany leadership positions—including mental well-being, decision fatigue, and performance sustainability. This integrated approach creates the foundation for both organizational success and leadership longevity </p>
                     </article>
                     <article>
                         <h3>Leadership Development</h3>
@@ -64,27 +90,8 @@ My clients don't just solve today's scaling problems—they build organizational
                         <h3>Product & Innovation Coaching</h3>
                         <p>Transform your product strategy and innovation processes with insights from a seasoned Chief Product Officer. Implement effective product management methodologies and innovation frameworks.</p>
                     </article>
-                    <article>
-                        <h3>Leadership offsites</h3>
-                        <p>Descriptive text about leadership offsites to start working better together</p>
-                    </article>
                 </div>
             </section>
-
-            <!-- Experience Section - Narrative Format
-            <section id="experience">
-                <h2>experience</h2>
-                <div class="experience-narrative">
-                    <p>My journey as a product and leadership executive spans over a decade, where I've consistently driven transformative growth across multiple industries. Currently, as the Chief Product Officer at PVcase, I'm leading product strategy for a next-generation PV software-as-a-service company that's raised $123M and employs over 250 people globally. Our work is helping revolutionize the energy transition through innovative software solutions.</p>
-                    
-                    <p>Prior to PVcase, I served as Vice President of Product at Staffbase from 2021 to 2023, where I orchestrated a remarkable scaling journey. I built and led a world-class product organization that grew to encompass 32+ high-performing teams across 5 distinct business units, serving 2500+ customers worldwide. Under my leadership, our product management team expanded from 30 to more than 85 full-time employees, while company revenue surged from $35M to over $100M ARR.</p>
-                    
-                    <p>My experience with rapid scaling began at scoutbee, where I joined as the first executive product hire from 2019 to 2021. There, I built an industry-disrupting product management and design team from the ground up. Starting with just 5 team members, I strategically grew our capabilities to 17 full-time employees, enabling us to acquire significant customers and partners including Unilever, Audi, and SAP.</p>
-                    
-                    <p>Throughout these roles, I've developed a deep understanding of the challenges organizations face during critical growth phases. My approach combines strategic vision with practical execution, helping leadership teams navigate complexity while building sustainable, high-performing organizations. This hands-on experience informs my coaching practice, allowing me to provide valuable insights to executives and teams facing similar growth challenges.</p>
-                </div>
-            </section>
-            -->
 
             <!-- Writing/Testimonials Section
             <section id="writing">
@@ -113,22 +120,25 @@ My clients don't just solve today's scaling problems—they build organizational
             <section id="contact">
                 <h2>find me online</h2>
                 <div class="contact-links">
-                    <div><a href="mailto:contact@martineliason.com">— email</a></div>
-                    <div><a href="https://www.linkedin.com/in/martineliason">— linkedin</a></div>
-                    <div><a href="#">— schedule a consultation</a></div>
+                    <div><a href="mailto:contact@martineliason.com" aria-label="Email Martin Eliason">— email</a></div>
+                    <div><a href="https://www.linkedin.com/in/martineliason" aria-label="Martin Eliason's LinkedIn Profile">— linkedin</a></div>
+                    <div><a href="https://calendly.com/martineliason/consultation" aria-label="Schedule a consultation">— schedule a consultation</a></div>
                 </div>
             </section>
         </main>
 
         <!-- Footer -->
         <footer>
-            <p>© 2025 Martin Eliason. All rights reserved.</p>
+            <p>© <span id="current-year"></span> Martin Eliason. All rights reserved.</p>
         </footer>
     </div>
 
     <button class="back-to-top" aria-label="Back to top">↑</button>
 
     <script>
+        // Update copyright year
+        document.getElementById('current-year').textContent = new Date().getFullYear();
+
         // Mobile menu functionality
         document.addEventListener('DOMContentLoaded', function() {
             const mobileMenuToggle = document.querySelector('.mobile-menu-toggle');
